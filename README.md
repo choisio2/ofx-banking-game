@@ -12,7 +12,7 @@ openframeworks를 사용하여 뱅킹 앱 구현
 ![img1](https://github.com/user-attachments/assets/612dc1c5-2876-4d0f-a429-bd76c0a0f675)
 
 4. 로그인인 성공하면 은행 화면넘어감 
-![img2](https://github.com/user-attachments/assets/342b972d-065f-4347-947a-b2c3d95892a1)
+<img src="https://github.com/user-attachments/assets/342b972d-065f-4347-947a-b2c3d95892a1" width="50%">
 
 6. 은행 화면에서 '3'을 누르면 Coin Mining Game이 실행 -> 스페이스바를 누를 때마다 10원씩 증가 
 ![img3](https://github.com/user-attachments/assets/8b81ba3a-9114-49fa-985c-53afecbfd2fe)
@@ -23,7 +23,7 @@ openframeworks를 사용하여 뱅킹 앱 구현
    2) 우주선이 코인을 먹으면 1000원씩 증가 
    3) 우주선이 소행성과 출동하면 게임 종료
    4) 게임 종료 메시지 떴을 때, 'r'을 누르면 게임 다시 실행, 'w'를 누르면 은행 화면으로 돌아감
-![img4](https://github.com/user-attachments/assets/fae60d34-575d-4cb6-bde2-f6d3fe11722f)
+<img src="https://github.com/user-attachments/assets/fae60d34-575d-4cb6-bde2-f6d3fe11722f" width="50%">
 
 10. q를 누르면 프로그램 종료 
 
